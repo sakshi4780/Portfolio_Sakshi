@@ -187,6 +187,7 @@ h1 {
     width: 100%;
     background-color: rgb(231, 231, 231);
     border-radius: 20px;
+
 }
 
 .cpp,
@@ -274,3 +275,38 @@ h1 {
     color: #DDD0C8;
 
 }
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+    h1,h2,h3{
+        font-size: smaller;
+    }
+    p{
+        font-size: 2.5vw;
+    }
+    li {
+        float: left;
+    
+    }
+    .container {
+        width: 100%;
+        background-color: rgb(231, 231, 231);
+        border-radius: 1vh;
+        height:0.5vh;
+        
+    }
+    .cpp,
+.java,
+.python,
+.c {
+    text-align: center;
+    font-weight: bolder;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+    color: white;
+    border-radius :3vw;
+    height:1vw;
+    font-size: 1vw;
+}
+  }
