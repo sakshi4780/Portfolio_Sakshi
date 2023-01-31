@@ -10,9 +10,6 @@ You will need a web browser to view the portfolio.
 ## Built With
 * HTML5 
 * CSS3 
-##
-https://sakshi4780.github.io/Portfolio_Sakshi/port.html
-(In case you want to see the design.)
 
 ## Author
 Sakshi
